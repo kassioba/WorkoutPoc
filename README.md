@@ -4,7 +4,7 @@ Uma API em que é possível publicar treinos, buscar todos os treinos ou filtrá
 
 ## Rotas
 
-POST: /workout
+POST: /workout  
 Body: { 
   "muscleGroup": "string", 
   "exercises": [
